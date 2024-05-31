@@ -1,0 +1,60 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore Unity-specific directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore Unity-generated file extensions
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Ignore VSCode project files
+.vscode/
+
+# Ignore Visual Studio files and directories
+.vs/
+*.vsidx
+*.vscode
+*.code-workspace
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.VC.opendb
+*.VC.db
+*.suo
+*.cache
+*.pdb
+*.userprefs
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ignore build directories
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore npm modules
+node_modules/
+
+# Ignore other common temporary files
+*.log
+*.tmp
